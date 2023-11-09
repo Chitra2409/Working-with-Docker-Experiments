@@ -1,6 +1,7 @@
 # Working-with-Docker
 
 Welcome to the "Working with Docker-Experiments" repository! This is an ongoing collection of word documents detailing various experiments and projects related to Docker. Whether you're new to Docker or an experienced user, you'll find valuable resources here to help you learn and explore different AWS services.
+This repository contains PDFs for performing the experiments with the step by step procedures and screenshots for your assistance.
 
 ## Introduction
 
